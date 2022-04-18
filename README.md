@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @squeezymart
+- 👋 Hi, I’m squeezymart
 - 👀 I’m interested in beta testing the future
 - 🌱 I’m currently learning how to read and write code languages
 - 💞️ I’m looking to collaborate on nothing really but I'm down for friends
